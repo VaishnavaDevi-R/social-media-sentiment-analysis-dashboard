@@ -48,6 +48,7 @@ Text Data → Cleaning → TF-IDF → Random Forest → Prediction → Dashboard
 
 ## 📁 Folder Structure
 
+```text
 Social-Media-Sentiment-Analysis-Dashboard/
 │
 ├── data/
@@ -89,6 +90,7 @@ Social-Media-Sentiment-Analysis-Dashboard/
 ├── docs/
 ├── requirements.txt
 └── README.md
+```
 
 
 ---
